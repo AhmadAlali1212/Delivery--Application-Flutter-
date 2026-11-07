@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1012846855172",
+    "project_id": "ecommeceapp-969bd",
+    "storage_bucket": "ecommeceapp-969bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012846855172:android:3a5edef410c3f54e5fe151",
+        "android_client_info": {
+          "package_name": "com.example.deliveryapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe7gLVzjEpovdoc3BPjm4IL6LyoKQbIig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012846855172:android:8c97217b93700a9d5fe151",
+        "android_client_info": {
+          "package_name": "com.example.ecommeceappcourse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe7gLVzjEpovdoc3BPjm4IL6LyoKQbIig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
